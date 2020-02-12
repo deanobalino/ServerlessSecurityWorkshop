@@ -9,9 +9,9 @@ This workshop is made up of a number of modules. They are ideally designed to be
 |Id  |Name                                              |Description    |
 |----|--------------------------------------------------|---------------|
 |1   |[Introduction](lessons/intro.md)                  |               |
-|2   |[Auth ](lessons/auth.md)                          |               |
-|3   |[Input Validation](lessons/input.md)              |               |
-|4   |[Secrets ](lessons/secrets.md)                    |               |
-|5   |[Vulnerable Dependencies](lessons/dependencies.md)|               |
-|6   |[Encryption](lessons/encryption.md)               |               |
-|7   |[WAF](lessons/waf.md)                             |               |
+|2   |[Input Validation](lessons/input.md)              |               |
+|3   |[Secrets ](lessons/secrets.md)                    |               |
+|4   |[Vulnerable Dependencies](lessons/dependencies.md)|               |
+|5   |[Encryption](lessons/encryption.md)               |               |
+|6   |[WAF](lessons/waf.md)                             |               |
+|7   |[Auth ](lessons/auth.md)                          |TBC            |
